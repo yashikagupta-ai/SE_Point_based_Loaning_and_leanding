@@ -1,0 +1,27 @@
+{"level":"info","message":"Admin 69f5bbfac06707f39c32ddd8 updated setting \"max_loan_duration_days\" → 50","service":"points-lending-api","timestamp":"2026-05-02 20:01:04"}
+{"level":"info","message":"User logged out: 69f5bbfac06707f39c32ddd8","service":"points-lending-api","timestamp":"2026-05-02 20:02:30"}
+{"level":"info","message":"User logged out: 69b705ffe06772b69fbb3b1b","service":"points-lending-api","timestamp":"2026-05-02 20:04:11"}
+{"level":"info","message":"Admin deleted all items: 1 items removed","service":"points-lending-api","timestamp":"2026-05-02 20:04:43"}
+{"level":"info","message":"User logged out: 69f5bbfac06707f39c32ddd8","service":"points-lending-api","timestamp":"2026-05-02 20:04:46"}
+{"level":"info","message":"User logged out: 69d222fc8b3a5f5dfce1b949","service":"points-lending-api","timestamp":"2026-05-02 20:20:18"}
+{"level":"info","message":"User logged out: 69b705ffe06772b69fbb3b1b","service":"points-lending-api","timestamp":"2026-05-02 20:26:09"}
+{"level":"info","message":"User logged out: 69f5bbfac06707f39c32ddd8","service":"points-lending-api","timestamp":"2026-05-02 20:27:26"}
+{"level":"info","message":"Admin 69f5bbfac06707f39c32ddd3 updated setting \"max_loan_duration_days\" → 30","service":"points-lending-api","timestamp":"2026-05-02 20:29:03"}
+{"level":"info","message":"User logged out: 69b705ffe06772b69fbb3b1b","service":"points-lending-api","timestamp":"2026-05-02 20:30:28"}
+{"level":"info","message":"User logged out: 69b705ffe06772b69fbb3b1b","service":"points-lending-api","timestamp":"2026-05-02 20:30:59"}
+{"level":"info","message":"User logged out: 69b705ffe06772b69fbb3b1b","service":"points-lending-api","timestamp":"2026-05-02 21:47:11"}
+{"level":"info","message":"User logged out: 69b705ffe06772b69fbb3b1b","service":"points-lending-api","timestamp":"2026-05-02 21:50:11"}
+{"level":"info","message":"User logged out: 69b705ffe06772b69fbb3b1b","service":"points-lending-api","timestamp":"2026-05-02 21:50:31"}
+{"level":"info","message":"User logged out: 69b705ffe06772b69fbb3b1b","service":"points-lending-api","timestamp":"2026-05-02 21:51:33"}
+{"level":"info","message":"Points transferred: 1 from 69b705ffe06772b69fbb3b1b to 69d222fc8b3a5f5dfce1b949","service":"points-lending-api","timestamp":"2026-05-02 21:53:22"}
+{"level":"info","message":"User logged out: 69b705ffe06772b69fbb3b1b","service":"points-lending-api","timestamp":"2026-05-02 21:53:48"}
+{"level":"info","message":"User logged out: 69d222fc8b3a5f5dfce1b949","service":"points-lending-api","timestamp":"2026-05-02 21:54:28"}
+{"level":"info","message":"User logged out: 69d222fc8b3a5f5dfce1b949","service":"points-lending-api","timestamp":"2026-05-02 21:57:07"}
+{"level":"info","message":"User logged out: 69d222fc8b3a5f5dfce1b949","service":"points-lending-api","timestamp":"2026-05-02 21:59:07"}
+{"level":"info","message":"User logged out: 69d222fc8b3a5f5dfce1b949","service":"points-lending-api","timestamp":"2026-05-02 22:01:41"}
+{"level":"info","message":"User logged out: 69b705ffe06772b69fbb3b1b","service":"points-lending-api","timestamp":"2026-05-02 22:04:08"}
+{"level":"info","message":"User logged out: 69d33414b100d21c430fe1b2","service":"points-lending-api","timestamp":"2026-05-02 22:13:12"}
+{"level":"error","message":"Generate report error: Cannot convert undefined or null to object","service":"points-lending-api","stack":"TypeError: Cannot convert undefined or null to object\n    at Function.keys (<anonymous>)\n    at convertToCSV (C:\\Users\\amars\\Downloads\\LoanLend4\\Backend\\controllers\\adminController.js:753:28)\n    at generateReport (C:\\Users\\amars\\Downloads\\LoanLend4\\Backend\\controllers\\adminController.js:1057:25)\n    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)","timestamp":"2026-05-02 22:28:30"}
+{"level":"info","message":"User logged out: 69f7761d7bcdcbed0eb3d6b9","service":"points-lending-api","timestamp":"2026-05-03 21:55:29"}
+{"level":"error","message":"Generate report error: Cannot convert undefined or null to object","service":"points-lending-api","stack":"TypeError: Cannot convert undefined or null to object\n    at Function.keys (<anonymous>)\n    at convertToCSV (C:\\Users\\amars\\Downloads\\LoanLend4\\Backend\\controllers\\adminController.js:753:28)\n    at generateReport (C:\\Users\\amars\\Downloads\\LoanLend4\\Backend\\controllers\\adminController.js:1057:25)\n    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)","timestamp":"2026-05-03 22:09:31"}
+{"level":"error","message":"Generate report error: Cannot convert undefined or null to object","service":"points-lending-api","stack":"TypeError: Cannot convert undefined or null to object\n    at Function.keys (<anonymous>)\n    at convertToCSV (C:\\Users\\amars\\Downloads\\LoanLend4\\Backend\\controllers\\adminController.js:753:28)\n    at generateReport (C:\\Users\\amars\\Downloads\\LoanLend4\\Backend\\controllers\\adminController.js:1057:25)\n    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)","timestamp":"2026-05-03 22:17:12"}
